@@ -2,7 +2,6 @@
 *
 
 # Allow specific files
-!6c75_fast_uploader.py
+!6c75_fast_uploader.pyw
 !README.md
 !.gitignore
-!fast_uploader.json
